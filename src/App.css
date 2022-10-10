@@ -1,5 +1,26 @@
 main {
   text-align: center;
   vertical-align: center;
+  text-color: darkslategray;
+  font-family:  "Georgia", monospace;
+  background-color: linen;
+}
+body {
+ background-image: url("0410");
 }
 
+div {
+  border: 4px dotted lightblue;
+  margin: 50px 100px;
+}
+
+.button {
+  background-color: darkslategrey; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

@@ -3,5 +3,6 @@ export default function Button(props) {
         console.log("Button was clicked!");
         alert("Button was clicked!");
     }
-    return <button onClick={handleClick}>Click me</button>;
+    return <button className="action" onClick=
+             {handleClick}> {props.action} </button>;
 }
