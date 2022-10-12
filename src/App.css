@@ -4,17 +4,31 @@ main {
   text-color: darkslategray;
   font-family:  "Georgia", monospace;
   background-color: linen;
+  
 }
 body {
- background-image: url("0410");
+ background-image: url("0410.png");
+ font-size: 16px;
 }
 
 div {
   border: 4px dotted lightblue;
-  margin: 50px 100px;
+  margin: 20px 100px;
+  background-color: linen;
 }
 
-.button {
+button {
+  background-color: darkslategrey; /* Green */
+  border: none;
+  color: linen;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family:  "Georgia", monospace;
+}
+Dropoption {
   background-color: darkslategrey; /* Green */
   border: none;
   color: white;
@@ -23,4 +37,5 @@ div {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  font-family:  "Georgia", monospace;
 }
