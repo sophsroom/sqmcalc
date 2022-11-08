@@ -1,3 +1,7 @@
+office sqare meter calculator is a small react project
+with calulate function
+The Shorcut/ Fullstack Course/ 2nd project
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
