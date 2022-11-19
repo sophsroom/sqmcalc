@@ -2,20 +2,22 @@ main
 {
   text-align: center;
   vertical-align: center;
-  text-color: darkslategray;
-  font-family:  "Georgia", monospace;
-  background-color: linen;
-  
+  border-radius: 12px;
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  background-color: linen
 }
+
 body {
  background-image: url("0410.png");
  font-size: 16px;
+ text-color: darkslategray;
+ height: 200px;
 }
 
 div {
-  border: 4px dotted lightblue;
-  margin: 20px 100px;
-  background-color: linen;
+padding: 20px;
 }
 
 button {
